@@ -1,0 +1,11 @@
+C:\Users\thepo\onedrive\desktop\projects\worlddatabase.solution\WorldDatabase\obj\Debug\netcoreapp1.1\WorldDatabase.csprojAssemblyReference.cache
+C:\Users\thepo\onedrive\desktop\projects\worlddatabase.solution\WorldDatabase\obj\Debug\netcoreapp1.1\WorldDatabase.csproj.CoreCompileInputs.cache
+C:\Users\thepo\onedrive\desktop\projects\worlddatabase.solution\WorldDatabase\obj\Debug\netcoreapp1.1\WorldDatabase.AssemblyInfoInputs.cache
+C:\Users\thepo\onedrive\desktop\projects\worlddatabase.solution\WorldDatabase\obj\Debug\netcoreapp1.1\WorldDatabase.AssemblyInfo.cs
+C:\Users\thepo\onedrive\desktop\projects\worlddatabase.solution\WorldDatabase\bin\Debug\netcoreapp1.1\WorldDatabase.deps.json
+C:\Users\thepo\onedrive\desktop\projects\worlddatabase.solution\WorldDatabase\bin\Debug\netcoreapp1.1\WorldDatabase.runtimeconfig.json
+C:\Users\thepo\onedrive\desktop\projects\worlddatabase.solution\WorldDatabase\bin\Debug\netcoreapp1.1\WorldDatabase.runtimeconfig.dev.json
+C:\Users\thepo\onedrive\desktop\projects\worlddatabase.solution\WorldDatabase\bin\Debug\netcoreapp1.1\WorldDatabase.dll
+C:\Users\thepo\onedrive\desktop\projects\worlddatabase.solution\WorldDatabase\bin\Debug\netcoreapp1.1\WorldDatabase.pdb
+C:\Users\thepo\onedrive\desktop\projects\worlddatabase.solution\WorldDatabase\obj\Debug\netcoreapp1.1\WorldDatabase.dll
+C:\Users\thepo\onedrive\desktop\projects\worlddatabase.solution\WorldDatabase\obj\Debug\netcoreapp1.1\WorldDatabase.pdb

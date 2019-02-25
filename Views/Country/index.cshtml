@@ -1,0 +1,6 @@
+<h3>List of Countries:</h3>
+
+@foreach(var country in Model)
+{
+    <h3>@country.GetCode(), @country.GetName(), @country.GetContinent(), @country.GetRegion(), @country.GetSurfaceArea(), @country.GetPopulation()</h3>
+}
